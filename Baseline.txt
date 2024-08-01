@@ -9,8 +9,8 @@ Repo Manager(RM) Creates a New REPO named: scp (Sourcecode Control Practice)
     RM Accept and Merge all pull requests to update the file in Main Branch to include all TeamMembers
 This is the Baseline File that starts in Main Branch...
 Add your name to the agreed spot below
-1.
-2.Deelan Patel
+1. Jeff Hammans
+2.
 3.
 4.
 5.
