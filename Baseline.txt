@@ -13,6 +13,6 @@ Add your name to the agreed spot below
 2.
 3.
 4.
-5.
+5. Manahil Rashid
 Repo Manager will accept the pull and Merge each branch into the Main Branch...
 Share Repo to Arin and Dave
